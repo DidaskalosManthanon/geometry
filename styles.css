@@ -1,0 +1,98 @@
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    font-family: "American Typewriter", Monaco, monospace;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: Impact, Georgia;
+}
+
+#initial-data {
+    font-size: 1.75rem;
+}
+
+
+
+.qu {
+    font-family: Verdana, Geneva, sans-serif;
+    /*background-color: lime;*/
+    width: 90%;
+    padding: 2%;
+    color: red;
+}
+
+.re {
+    font-family: Tahoma, Geneva, sans-serif;
+    /*background-color: red;*/
+    width: 95%;
+    padding: 2%;
+    color: green;
+}
+
+
+.q {
+    width: 55%;
+    color: black;
+    background-color: #ccc;
+    margin: 2.5% auto;
+    padding: 0.5% 2% 0.5% 2%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1.5rem;
+}
+
+.r {
+    width: 95%;
+    color: black;
+    background-color: #ccc;
+    margin: 2.5% auto;
+    padding: 0.5% 2.5% 0.5% 2.5%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-family: Georgia, serif;
+}
+
+
+#protocol {
+    margin: 2% 25% 2% 30%;
+}
+
+
+
+.disp-warning {
+    width: 50%;
+    color: red;
+    background-color: cyan;
+    margin: 5% auto;
+    margin-bottom: 2.5%;
+    padding: 2.5% 0.5% 2.5% 7.5%;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 1.25rem;
+}
+
+.ggbApplet {
+    margin: auto;
+    margin-bottom: 2.5%;
+    margin-right: 2.5%;
+}
+
+
+.q-sep {
+    border: none; /* Remove the default border */
+    border-top: 5px dashed slategray; /* Add a dashed border on top */
+    margin: 2.5%;
+}
+
+.exo-sol-sep {
+    border: none; /* Remove the default border */
+    border-top: 15px solid slategray; /* Add a dashed border on top */
+    margin: 5%;
+  }
