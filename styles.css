@@ -109,3 +109,7 @@ h3 {
     border-radius: 10px;
     font-size: 1.25rem;
   }
+
+  ul ul {
+    list-style-type:upper-alpha;
+  }
